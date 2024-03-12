@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mohammad Reza Maleki aka momaleki
+- 👋 Hi, I’m Mo aka momaleki
 - 👀 I’m interested in music and programming
-- 🌱 I’m currently learning Python + AI
+- 🌱 I’m currently Making / Breaking
 - 📫 How to reach me ? use my email or search @Momalekiii on other platforms (socialmedia's)
 
 <!---
