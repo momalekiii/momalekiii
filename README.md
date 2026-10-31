@@ -5,7 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=momalekiii&color=10b981&style=flat-square&label=VISITORS" alt="visitors" />
-  <a href="https://github.com/momalekiii"><img src="https://img.shields.io/badge/GitHub-momalekiii-18181b?style=flat-square&logo=github&labelColor=070708" alt="GitHub" /></a>
+ 
   <a href="https://momalekiii.github.io"><img src="https://img.shields.io/badge/Portfolio-momalekiii.io-10b981?style=flat-square&logo=safari&labelColor=070708" alt="Portfolio" /></a>
 </p>
 
@@ -17,7 +17,6 @@
 
 > Backend-leaning software engineer focused on building lightweight, zero-dependency CLI utilities, terminal-first workflows, and web tools. Pragmatic builder with a minimalist aesthetic.
 
-- 📍 **Based in:** Iran
 - 💻 **Tech Stack:** Python, Go, Java, JavaScript
 - ⚡ **Philosophy:** Making & breaking things with minimal friction and maximum speed.
 
