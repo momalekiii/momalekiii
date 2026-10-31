@@ -1,12 +1,10 @@
 <div align="center">
 
 # `>_`  MO𓅓
-### Software Engineer & CLI Tool Developer
+### Software Engineer 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=momalekiii&color=10b981&style=flat-square&label=VISITORS" alt="visitors" />
- 
-  <a href="https://momalekiii.github.io"><img src="https://img.shields.io/badge/Portfolio-momalekiii.io-10b981?style=flat-square&logo=safari&labelColor=070708" alt="Portfolio" /></a>
+
+   <a href="https://momalekiii.github.io"><img src="https://img.shields.io/badge/Portfolio-momalekiii.io-10b981?style=flat-square&logo=safari&labelColor=070708" alt="Portfolio" /></a>
 </p>
 
 </div>
